@@ -7,7 +7,7 @@ COPY NOTLS.mqsc /etc/mqm/
 COPY MYDEFS.mqsc /etc/mqm
 
 COPY TLSPRQM1.kdb /etc/mqm/
-COPY TLSPRQM1.crt /etc/mqm/
+COPY TLSPRQM1.arm /etc/mqm/
 COPY TLSPRQM1.rdb /etc/mqm/
 COPY TLSPRQM1.sth /etc/mqm/
 
